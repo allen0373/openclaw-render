@@ -1,0 +1,13 @@
+{
+  "name": "openclaw-render",
+  "version": "1.0.0",
+  "description": "OpenClaw 7x24 deployment on Render.com",
+  "main": "index.js",
+  "scripts": {
+    "start": "bash start.sh",
+    "install": "npm install -g openclaw"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
